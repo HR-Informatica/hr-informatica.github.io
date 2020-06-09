@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="home">
+    {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+    {%- endif -%}
+
+    {{ content }}
+
+    {% assign coll = site.collections | where: "label", page.collection_label | first %}
+    {%- if coll.docs.size > 0 -%}
+    <h2 class="post-list-heading">Lessen</h2>
+    <ul class="post-list">
+        {% assign lessons = coll.docs | where_exp:"item", "item.title != page.title" %}
+        {%- for lesson in lessons -%}
+        <li>
+            <h3>
+                <a class="post-link" href="{{ lesson.url | relative_url }}">
+                    {{ lesson.title | escape }}
+                </a>
+            </h3>
+            {%- if site.show_excerpts -%}
+            {{ lesson.excerpt }}
+            {%- endif -%}
+        </li>
+        {%- endfor -%}
+    </ul>
+    {%- endif -%}
+</div>

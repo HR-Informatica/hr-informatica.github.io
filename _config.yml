@@ -16,17 +16,30 @@ description: >- # this means to ignore newlines until "baseurl:"
   Gemaakt door studenten, voor studenten
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hr-informatica.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+lang: nl_NL
 # twitter_username: jekyllrb
 github_username: HR-Informatica
 
 # Build settings
 markdown: kramdown
 theme: minima
+collections_dir: vakken
+collections:
+  ana_software_analyse_design:
+    name: Analyse - Software Analyse & Design
+    output: true
+  ana_software_quality:
+    name: Analyse - Software Quality
+    output: true
+  dev_algorithms:
+    name: Development - Algorithms
+    output: true
+  dev_functional_programming:
+    name: Development - Functional Programming
+    output: true
 # plugins:
   # - jekyll-feed
-
-minima:
-  skin: dark
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
