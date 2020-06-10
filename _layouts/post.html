@@ -7,14 +7,15 @@ layout: default
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
         <p class="post-meta">
             {%- if page.author -%}
-            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
-                    itemprop="name">{{ page.author }}</span></span>
+            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
             {%- endif -%}</p>
     </header>
 
     <div class="post-content e-content" itemprop="articleBody">
         {{ content }}
     </div>
+
+    <a class="post-back" href="{{ '/' | append: page.collection | relative_url }}">Back</a>
 
     {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
