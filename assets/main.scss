@@ -1,5 +1,4 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 $grey-color:       #CC0033;
@@ -23,6 +22,7 @@ $accent-color:  #f7d9e1;
     color: $grey-color-old;
 }
 
+.nav-home,
 .post-back {
     margin-top: 15px;
     font-size: 20px;
