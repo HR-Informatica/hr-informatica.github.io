@@ -16,7 +16,13 @@
             {%- endif -%}
             </li>
             {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+              {% if site.email.first %}
+                {% for email in site.email %}
+                <li><a class="u-email" href="mailto:{{ email }}">{{ email }}</a></li>
+                {% endfor %}
+              {% else %}
+                <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+              {% endif %}
             {%- endif -%}
         </ul>
       </div>
