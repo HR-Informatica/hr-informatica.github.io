@@ -3,17 +3,20 @@ layout: default
 ---
 
 <div class="home">
-    {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-    {%- endif -%}
+    {% assign course = site.collections | where: "label", page.collection | first %}
+    <ul class="breadcrumbs">
+        <li><a href="{{ '/' | relative_url }}">Alle vakken</a></li>
+        <li>{{ course.name | escape }}</li>
+    </ul>
+
+    <h1 class="page-heading">{{ course.name | escape }}</h1>
 
     {{ content }}
 
-    {% assign coll = site.collections | where: "label", page.collection_label | first %}
-    {%- if coll.docs.size > 0 -%}
+    {%- if course.docs.size > 0 -%}
     <h2 class="post-list-heading">Lessen</h2>
     <ul class="post-list">
-        {% assign lessons = coll.docs | where_exp:"item", "item.title != page.title" %}
+        {% assign lessons = course.docs | where_exp:"item", "item.title != page.title" %}
         {%- for lesson in lessons -%}
         <li>
             <h3>

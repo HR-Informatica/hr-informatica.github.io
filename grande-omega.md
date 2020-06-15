@@ -30,5 +30,5 @@ Om de applicatie te starten kunnen "start.command" en "start-mac.command" uitgev
 **Let op:** Je kan GO niet installeren op een pad waar een spatie in zit.
 E.g. `C:\Users\User1\Desktop\Grande_Omega\go_student_win_tmp2` is oké, maar `C:\Users\User1\Desktop\Grande Omega\go_student_win_tmp2` is niet oké omdat er een spatie in zit.
 
-**Let op linux gebruikers:** Om grande omega te installeren wordt aangeraden om alles behalven de "node_modules" map te unzippen.
+**Let op linux gebruikers:** Om grande omega te installeren wordt aangeraden om alles behalve de "node_modules" map te unzippen.
 Daarna kan je `npm install` uitvoeren om de node_modules opnieuw te downloaden maar dan voor jouw linux distro i.p.v. Mac

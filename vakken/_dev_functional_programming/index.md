@@ -1,7 +1,5 @@
 ---
 layout: course_home
-title: Development - Functional Programming
-collection_label: dev_functional_programming
 ---
 _Dit vak is nog onder constructie_
 

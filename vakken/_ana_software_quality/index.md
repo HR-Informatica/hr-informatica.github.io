@@ -1,7 +1,5 @@
 ---
 layout: course_home
-title: Analyse - Software Quality
-collection_label: ana_software_quality
 ---
 
 **Dit vak gaat over de kwaliteit van je software, zoals input validation en cross site scripting.**

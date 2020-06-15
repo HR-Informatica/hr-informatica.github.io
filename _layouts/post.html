@@ -4,6 +4,12 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
     <header class="post-header">
+        <ul class="breadcrumbs">
+            <li><a href="{{ '/' | relative_url }}">Alle vakken</a></li>
+            {% assign course = site.collections | where: "label", page.collection | first %}
+            <li><a href="{{ '/' | append: page.collection | relative_url }}">{{ course.name | escape }}</a></li>
+            <li>{{ page.title | escape }}</li>
+        </ul>
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
         <p class="post-meta">
             {%- if page.author -%}

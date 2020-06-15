@@ -36,3 +36,18 @@ code {
 hr {
     margin: 10px 0;
 }
+
+.breadcrumbs {
+  list-style:none;
+  margin: 0 0 16px ;
+}
+
+.breadcrumbs li {
+  display: inline-block;
+}
+
+.breadcrumbs li+li:before  {
+  padding:8px;
+  color:#000;
+  content: ">";
+}

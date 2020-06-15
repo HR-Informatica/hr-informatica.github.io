@@ -1,7 +1,5 @@
 ---
 layout: course_home
-title: Development - Algorithms
-collection_label: dev_algorithms
 ---
 _Dit vak is nog onder constructie_
 
