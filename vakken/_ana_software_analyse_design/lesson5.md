@@ -8,7 +8,7 @@ title: Lesson 5 - Software architecture (patterns)
 Les over Software architectures. Welke architectures er bestaan en hoe deze in elkaar zitten.
 
 #### Lesvideo:
-<iframe src="https://drive.google.com/file/d/17fAQY6yGyw3QmVm75eQ3LPlvCS7flDua/preview" width="640" height="360"></iframe>
+<iframe src="https://drive.google.com/file/d/17fAQY6yGyw3QmVm75eQ3LPlvCS7flDua/preview" width="640" height="360" allowFullScreen allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 ### Downloads
 

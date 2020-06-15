@@ -12,7 +12,7 @@ Bij deze les had de leraar er twee youtube video's bijgezet.
 <iframe width="640" height="360" src="https://www.youtube.com/embed/UI6lqHOVHic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Lesvideo:
-<iframe src="https://drive.google.com/file/d/1gqNZ71ifSNmQmnCQpVvqxaYKQ6NcYG5L/preview" width="640" height="360"></iframe>
+<iframe src="https://drive.google.com/file/d/1gqNZ71ifSNmQmnCQpVvqxaYKQ6NcYG5L/preview" width="640" height="360" allowFullScreen allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
 
 
 ### Downloads

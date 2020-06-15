@@ -15,7 +15,7 @@ layout: default
         {{ content }}
     </div>
 
-    <a class="post-back" href="{{ '/' | append: page.collection | relative_url }}">Terug</a>
+    <a class="post-back" href="{{ '/' | append: page.collection | relative_url }}"><-- Terug</a>
 
     {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
