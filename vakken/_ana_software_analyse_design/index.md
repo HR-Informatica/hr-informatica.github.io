@@ -4,7 +4,7 @@ title: Analyse - Software Analyse & Design
 collection_label: ana_software_analyse_design
 ---
 
-Dit vak gaat over hoe je een project moet voorbereiden. Vooral over hoe je de documentatie goed moet hebben en waar het allemaal aan moet voldoen.
+**Dit vak gaat over hoe je een project moet voorbereiden. Vooral over hoe je de documentatie goed moet hebben en waar het allemaal aan moet voldoen.**
 
 ### Algemene downloads
 
