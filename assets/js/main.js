@@ -40,7 +40,7 @@ class Main {
 
         for(const iframe of iframes){
             const iframeOnloadEvent = () => {
-                if (iframe.contentWindow.length == 0 && !this.openPopup) {
+                if (iframe.src.startsWith('https://drive.google.com') && iframe.contentWindow.length == 0 && !this.openPopup) {
                     this.openPopup = true
 
                     this.createPopup("Embeds kunnen niet geladen worden", `
