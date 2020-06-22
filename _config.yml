@@ -27,17 +27,25 @@ markdown: kramdown
 theme: minima
 collections_dir: vakken
 collections:
+  ana_foundation_of_modeling:
+    name: Analyse - Foundation of modeling
+    course_code: INFANL03-2 en INFANL23-2
+    output: true
   ana_software_analyse_design:
     name: Analyse - Software Analyse & Design
+    course_code: INFSAD01-A en INFSAD21-A
     output: true
   ana_software_quality:
     name: Analyse - Software Quality
+    course_code: INFSWQ01-A en INFSWQ21-A
     output: true
   dev_algorithms:
     name: Development - Algorithms
+    course_code: INFALR01-D en INFALR21-D
     output: true
   dev_functional_programming:
     name: Development - Functional Programming
+    course_code: INFFPR01-D en INFFPR21-D
     output: true
 # plugins:
   # - jekyll-feed
