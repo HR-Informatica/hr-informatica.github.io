@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Les 2 - Functions
+title: Les 2 - Non-parametric Functions
 ---
 
-Intro over functies.
+Intro over functies zonder parameters.
 
 ### Downloads
 [Powerpoint](https://drive.google.com/file/d/14nO2Jm8Gl-e09GrEbdhe-oEjdXNCJkdn/view?usp=sharing){:target="_blank"}  
