@@ -20,6 +20,7 @@ layout: default
                     {{ course.name | escape }}
                 </a>
             </h3>
+            <p>Course code: {{ course.course_code | escape }}</p>
         </li>
         {%- endfor -%}
     </ul>
