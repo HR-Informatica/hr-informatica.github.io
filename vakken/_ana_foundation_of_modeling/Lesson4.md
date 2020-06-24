@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 4 - Linear functions, matplotlib and pyplot
+title: Les 4 - Linear functions, matplotlib and pyplot
+lesson: 4
 ---
 
 Deze les gaat over het plotten van grafieken in Matplotlib en PyPlot.

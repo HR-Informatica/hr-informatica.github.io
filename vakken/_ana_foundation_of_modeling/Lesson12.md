@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 12 - Simulation (part 2)
+title: Les 12 - Simulation (part 2)
+lesson: 12
 ---
 
 Vervolg op Simulation 1.

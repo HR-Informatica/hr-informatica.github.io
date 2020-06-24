@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 3 - Parametric Functions, Module import
+title: Les 3 - Parametric Functions, Module import
+lesson: 3
 ---
 
 Vervolg op functies en een uitbreding daarop met parameters.

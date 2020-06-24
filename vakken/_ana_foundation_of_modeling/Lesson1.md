@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 1 - Lists
+title: Les 1 - Lists
+lesson: 1
 ---
 
 Deze les gaat over lists en alles wat daarbij komt kijken.

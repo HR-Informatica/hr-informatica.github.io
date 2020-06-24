@@ -18,6 +18,11 @@ layout: default
     <h2 class="post-list-heading">Lessen</h2>
     <ul class="post-list">
         {% assign lessons = course.docs | where_exp:"item", "item.title != page.title" %}
+
+        {% if page.sort_lesson_key %}
+            {% assign lessons = lessons | sort: "lesson" %}
+        {% endif %}
+
         {%- for lesson in lessons -%}
         <li>
             <h3>

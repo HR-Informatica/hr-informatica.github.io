@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 11 - Simulation (part 1)
+title: Les 11 - Simulation (part 1)
+lesson: 11
 ---
 
 Introduction to simulation.

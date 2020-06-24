@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 10 - Empirical probability
+title: Les 10 - Empirical probability
+lesson: 10
 ---
 
 Python dictionaries and simulation of probabilistic experiments

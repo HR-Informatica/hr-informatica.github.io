@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 9 - Introduction to probability
+title: Les 9 - Introduction to probability
+lesson: 9
 ---
 
 Probability and events.

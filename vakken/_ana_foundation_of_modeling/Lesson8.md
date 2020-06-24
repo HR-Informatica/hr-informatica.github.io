@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 8 - Combinatorics (part 2)
+title: Les 8 - Combinatorics (part 2)
+lesson: 8
 ---
 
 Permutations, partial permutations and combinations.
