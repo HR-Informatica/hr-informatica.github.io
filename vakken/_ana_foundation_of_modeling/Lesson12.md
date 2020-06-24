@@ -7,7 +7,7 @@ lesson: 12
 Vervolg op Simulation 1.
 
 ### Downloads
-[Powerpoint](https://drive.google.com/file/d/1beq02uMcwJWqQR3xmL17xihb1a5IwVsW/view?usp=sharing){:target="_blank"}
+[Powerpoint](https://drive.google.com/file/d/1beq02uMcwJWqQR3xmL17xihb1a5IwVsW/view?usp=sharing){:target="_blank"}  
 
 ### Examples
 #### Ticket.py
