@@ -10,7 +10,6 @@ $grey-color-light-old: lighten($grey-color, 40%);
 $grey-color-dark-old:  darken($grey-color, 25%);
 
 $brand-color:   #CC0033;
-$accent-color:  #f7d9e1;
 
 @import "minima";
 
@@ -26,11 +25,6 @@ $accent-color:  #f7d9e1;
 .post-back {
     margin-top: 15px;
     font-size: 20px;
-}
-
-pre,
-code {
-    background-color: $accent-color;
 }
 
 hr {
