@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Les 2 - Non-parametric Functions
+title: 2 - Non-parametric Functions
 ---
 
 Intro over functies zonder parameters.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Les 6 - higher order functions (Part 2)
+title: 6 - higher order functions (Part 2)
 ---
 
 Vervolg op higher order fuctions en Map en Filter.

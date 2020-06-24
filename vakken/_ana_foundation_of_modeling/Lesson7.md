@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Les 7 - Introduction to combinatorics
+title: 7 - Combinatorics (part 1)
 ---
 
 Introduction to combinatorics

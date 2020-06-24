@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Les 3 - Parametric Functions, Module import
+title: 3 - Parametric Functions, Module import
 ---
 
 Vervolg op functies en een uitbreding daarop met parameters.

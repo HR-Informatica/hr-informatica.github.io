@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Les 5 - Higher order functions (Part 1)
+title: 5 - Higher order functions (Part 1)
 ---
 
 Deze les gaat over Higher order functions en Lambda functions.
