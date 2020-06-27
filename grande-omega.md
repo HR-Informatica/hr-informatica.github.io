@@ -42,9 +42,9 @@ Ook worden hier de examens in gegeven.
 [.NET Core SDK](https://dotnet.microsoft.com/download){:target="_black"}
 
 #### Grande Omega (kies een download geschikt voor jouw OS)
-[GO Windows](http://grandeomega.com/downloads/go_student_win.zip){:target="_black"}  
-[GO Mac / Linux](http://grandeomega.com/downloads/go_student_mac.zip){:target="_black"}  
-[GO installer (auto updater voor MacOS / Windows 10 / Linux)](http://grandeomega.com/downloads/go_student_app.zip){:target="_black"}
+[GO Windows](http://www.grandeomega.com/downloads/go_student_win.zip){:target="_black"}  
+[GO Mac / Linux](http://www.grandeomega.com/downloads/go_student_mac.zip){:target="_black"}  
+[GO installer (auto updater voor MacOS / Windows 10 / Linux)](http://www.grandeomega.com/downloads/go_student_app.zip){:target="_black"}
 
 ***
 
