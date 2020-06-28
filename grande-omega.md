@@ -4,6 +4,8 @@ title: Grande Omega
 permalink: /grande-omega/
 ---
 
+**Vanwege een fout aan de kant van Grande Omega werkt de auto-updater versie niet meer. Dit komt omdat ze alles downloaden van de link http://grandeomega.com/ terwijl deze link niet meer werkt. De nieuwe link is http://www.grandeomega.com/ .**
+
 Grande Omega is het programma waarmee meeste development opdrachten beschikbaar zijn.
 Ook worden hier de examens in gegeven.
 
