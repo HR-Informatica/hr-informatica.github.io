@@ -90,4 +90,4 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model
     - **UML**: Use-case diagram
 
 
-**From page 61 to 78 in the slides there is a summary with some more information and tips.**
+**op pagina 61 tot 78 van de powerpoint staat een summary met wat tips.**

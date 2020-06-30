@@ -56,4 +56,32 @@ Deze les gaat over hoe je informatie moet verzamelen om je requirements goed op 
     - Forms, reports, policy manuals, organization charts describe the formal system.
     - Look for the informal system in user additions to forms/report and unused form/report elements.
     - User changes to existing forms/reports or non-use of existing forms/reports suggest the system needs modification.
-    
+- Observation
+    - Watch how processes are being performed now.
+    - Users often don't recall everything they do.
+    - Check the validity of the information via other ways.
+    - Behavior of people can change when you watch them.
+    - Do not disturb the people you are watching.
+
+### Ethnography
+- A scientist spend some time observing and analysing how people are working.
+- The people don't explain what they are doing.
+- Other factors, such as social and organisational factors can also be observed.
+- In ethnographic studies scientists have seen that the work is usually richer and more compley than that simple models would suggest.
+
+## Good requirements
+- Unambiguous
+    - There should be only one interpretation of the requirement.
+    - It has to be easy to understand.
+- Concise
+    - Should be stated in short, specific and action-oriented language.
+- Finite
+    - Should not be stated in an open-ended manner.
+- Measurable
+    - Specific measurable limits should be stated.
+- Feasible
+    - Everything should be available, like tools, personnel etc.
+- Testable
+    - There should have to be a way to test the requirements
+- Traceable
+    - A requirement implemted should be traceble to where it was in the Software Requirements Specification.
