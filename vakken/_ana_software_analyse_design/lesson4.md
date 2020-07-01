@@ -98,4 +98,25 @@ Component diagram is in the 4+1 view the development view. This is the view whic
 Component is an encapsulated, reusable and replaceable part of the system. You can link classes to make components and you can link components to make larger components.
 Components can be parts of a system that have a functionality and can be reused in different places in the program. changed in a component should not affect other components. Communication between components should work via interfaces.
 
-![component2](\assets\images\ana_software_analysis_design\Lesson4\component2.jpg)
+In the lower part of the image you see the artifact of the component. In the middle part you see the provided interfaces and the required interfaces. And in the upper part you see the name of the component.
+
+The artifact is how your component is going to be placed in the system.
+
+The interfaces in the component is the way the component talks to other components.
+
+![component2](\assets\images\ana_software_analysis_design\Lesson4\component2.jpg)  
+
+In the picture below you see how you should connect two components to each other when they are talking to each other via interfaces. This is one way to do it.
+
+![ballsAndSockets](\assets\images\ana_software_analysis_design\Lesson4\BallsAndSockets.jpg)
+
+The other way is to use stereotypes. Way more time intensive to make, but you can understand it without knowing UML.
+
+![StereotypeComponent](\assets\images\ana_software_analysis_design\Lesson4\stereotypescomponent.jpg)
+
+#### Relations
+**Depends on:**
+![depends](\assets\images\ana_software_analysis_design\Lesson4\dependscomponent.jpg)
+
+**Example**
+![example](\assets\images\ana_software_analysis_design\Lesson4\componentexample.jpg)
