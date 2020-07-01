@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 3 - List , stack, queue and hash tables
+lesson: 3
 ---
 
 Hoe structureer je je data. Linear en Tabular.

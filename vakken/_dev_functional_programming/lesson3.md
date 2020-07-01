@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 3 - Polymorphism in Functional Programming
+lesson: 3
 ---
 
 In deze les leer je om polymorphism in functional programming toe te passen

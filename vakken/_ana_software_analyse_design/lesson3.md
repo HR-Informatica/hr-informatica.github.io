@@ -1,17 +1,18 @@
 ---
 layout: post
 title: Les 3 - Use case modelling
+lesson: 3
 ---
 
 Het maken van een Use Case Model in UML.
 
-# Downloads
+## Downloads
 
 [Powerpoint](https://drive.google.com/file/d/1iebIqMig5wrrguxFbuN31Xmuz1ndjaSy/view?usp=sharing){:target="_blank"}
 
 
-# Aantekeningen
-## User Story
+## Aantekeningen
+### User Story
 A user story is a card where you put on a simple scenario. This contains Who, What and Why.
 Basic User Story looks somthing like this:
 
@@ -25,7 +26,7 @@ As a {actor} I want to {action} so that {outcome}.
 - `{Outcome}`:
     - The outcome the `{actor}` wants after doing the  `{action}`.
 
-## Modeling
+### Modeling
 A model captures the important espects of a part of a system that is going to be modeled. It will model the system parts and simplify or omit the rest.
 We model systems to make it easier to understand what has to be implemented. There are multiple goals for a model:
 - Visualization
@@ -92,7 +93,7 @@ Break your system in managable chunks. While you are doing this, you may encount
     - Good example in the slides on page 50
 - Dependency
     - Stereotyped as <<extend>>
-        - The sequence of events in the Extension Use case (optionally) extemds the steps of the base use case.
+        - The sequence of events in the Extension Use case (optionally) extends the steps of the base use case. (**This extends differs from the one in java.**)
         - Good example in the slides on page 49
         ![extend](\assets\images\ana_software_analysis_design\Lesson3\extend.jpg)
     - Stereotyped as <<include>>

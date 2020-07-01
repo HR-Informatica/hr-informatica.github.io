@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Lesson 7 - QA ERD’s with normalising
+title: Les 7 - QA ERD’s with normalising
+lesson: 7
 ---
 
 **Let op deze les is geen leerstof voor de toets in het jaar van 2019-2020!**

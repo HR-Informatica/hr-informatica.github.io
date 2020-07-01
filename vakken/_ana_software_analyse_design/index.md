@@ -1,5 +1,6 @@
 ---
 layout: course_home
+sort_lesson_key: true
 ---
 
 **Dit vak gaat over hoe je een project moet voorbereiden. Vooral over hoe je de documentatie goed moet hebben en waar het allemaal aan moet voldoen.**

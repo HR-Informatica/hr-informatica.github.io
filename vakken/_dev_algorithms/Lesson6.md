@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 6 - Dynamic programming, Floyd Warshall
+lesson: 6
 ---
 
 Fibonacci en het Floyd-Warshall algorithm

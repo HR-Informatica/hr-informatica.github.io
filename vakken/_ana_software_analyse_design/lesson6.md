@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Lesson 6 - Class diagram to ERD and other UML diagrams
+title: Les 6 - Class diagram to ERD and other UML diagrams
+lesson: 6
 ---
 
 De les gaat vooral over verschillende UML diagrammen, zoals een ERD of een class diagram.

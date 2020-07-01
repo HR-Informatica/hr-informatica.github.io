@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 5 - Web trojans
+lesson: 5
 ---
 
 Alle soorten van schadelijke software.

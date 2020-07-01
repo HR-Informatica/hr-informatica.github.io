@@ -1,21 +1,22 @@
 ---
 layout: post
 title: Les 2 - Requirement elicitation
+lesson: 2
 ---
 
 Deze les gaat over hoe je informatie moet verzamelen om je requirements goed op te stellen.
 
-# Downloads
+## Downloads
 
 [Powerpoint](https://drive.google.com/file/d/188NtUn1PBvyaLLyIGPxqrDlaK7-na26-/view?usp=sharing){:target="_blank"}  
 [Formative exam week 1 and 2 Questions (Without answers)](https://drive.google.com/open?id=1CAAZXGVfXks6WTClVMBFUW54ZNtP9AbD){:target="_blank"}  
 [Formative exam week 1 and 2 Questions (With answers)](https://drive.google.com/open?id=1YepLWvQhzwlHTocqSigo57VURAbQ57-u){:target="_blank"}
 
-# Aantekeningen
+## Aantekeningen
 
-## Requirements elication and analysis process
-### Techniques
-- Interviews:
+### Requirements elication and analysis process
+#### Techniques
+- **Interviews:**
     - Most commonly used technique.
     - Basic steps:
         - Selecting interviewees
@@ -36,7 +37,7 @@ Deze les gaat over hoe je informatie moet verzamelen om je requirements goed op 
             - Polish the notes or create them from the recording.
             - Prepare a report and check it with the interviewee.
             - Find gaps and new questions.
-- JAD (Joint Application Development):
+- **JAD (Joint Application Development):**
     - This is a structured group process focused on collecting and clarifying requirements
     - Involves various stakeholders.
         - Facilitator
@@ -47,29 +48,29 @@ Deze les gaat over hoe je informatie moet verzamelen om je requirements goed op 
             - Stays neutral and helps resolve issues.
             - Records the content (recording or notes).
         - Users and managers from the bussiness with detailed knowledge about the issue.
-- Questionnaires:
+- **Questionnaires:**
     - Set of questions sent to a large number of people.
     - Select participants using samples of the population
     - Create questkions that are easy to understand but that give a lot of information.
-- Document analysis:
+- **Document analysis:**
     - Study of existing material describing the system.
     - Forms, reports, policy manuals, organization charts describe the formal system.
     - Look for the informal system in user additions to forms/report and unused form/report elements.
     - User changes to existing forms/reports or non-use of existing forms/reports suggest the system needs modification.
-- Observation
+- **Observation**
     - Watch how processes are being performed now.
     - Users often don't recall everything they do.
     - Check the validity of the information via other ways.
     - Behavior of people can change when you watch them.
     - Do not disturb the people you are watching.
 
-### Ethnography
+#### Ethnography
 - A scientist spend some time observing and analysing how people are working.
 - The people don't explain what they are doing.
 - Other factors, such as social and organisational factors can also be observed.
 - In ethnographic studies scientists have seen that the work is usually richer and more compley than that simple models would suggest.
 
-## Good requirements
+### Good requirements
 - Unambiguous
     - There should be only one interpretation of the requirement.
     - It has to be easy to understand.

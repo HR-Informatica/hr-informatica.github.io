@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 5 – Advanced Functions (vervolg)
+lesson: 5
 ---
 
 In deze les leer je verschillende operator functions in F# (les 2 van 2)

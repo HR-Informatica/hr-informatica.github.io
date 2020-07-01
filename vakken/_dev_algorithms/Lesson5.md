@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 5 - Graphs
+lesson: 5
 ---
 
 Hoe laat ik 'relationship networks' zien.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 2 - Types in Functional Programming
+lesson: 2
 ---
 
 Object en variable types in functional programming

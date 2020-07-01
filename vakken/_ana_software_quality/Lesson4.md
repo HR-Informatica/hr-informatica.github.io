@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 4 - Output handling
+lesson: 4
 ---
 
 Het goed afhandelen van de output.

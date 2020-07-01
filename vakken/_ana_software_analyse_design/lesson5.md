@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Lesson 5 - Software architecture (patterns)
+title: Les 5 - Software architecture (patterns)
+lesson: 5
 ---
 
 **Let op deze les is geen leerstof voor de toets in het jaar van 2019-2020!**

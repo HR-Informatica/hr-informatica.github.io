@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 1 - Introduction to functional programming
+lesson: 1
 ---
 
 Introductie van F# en functional programming concepten

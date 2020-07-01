@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 6 - Algemene tips en herhaling
+lesson: 6
 ---
 
 Hierin is een kleine quiz en een herhaling van de afgelopen 5 weken. Ook wat tips voor de assignment.

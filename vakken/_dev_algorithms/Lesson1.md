@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 1 - Intro, array, complexity
+lesson: 1
 ---
 
 Intro van de course, terugblik op arrays en big O.

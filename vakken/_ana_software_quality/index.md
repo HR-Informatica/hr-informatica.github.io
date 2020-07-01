@@ -1,5 +1,6 @@
 ---
 layout: course_home
+sort_lesson_key: true
 ---
 
 **Dit vak gaat over de kwaliteit van je software, zoals input validation en cross site scripting.**

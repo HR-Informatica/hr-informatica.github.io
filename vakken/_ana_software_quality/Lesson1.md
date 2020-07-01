@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 1 - The basics
+lesson: 1
 ---
 
 In deze les krijg je de basics van software quality te zien. Vooral HTTP requests en headers.

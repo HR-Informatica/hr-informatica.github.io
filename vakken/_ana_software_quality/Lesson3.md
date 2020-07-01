@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 3 - User input
+lesson: 3
 ---
 
 Het goed afhandelen van user input.

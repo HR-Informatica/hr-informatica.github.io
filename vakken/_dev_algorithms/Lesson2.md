@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 2 - Sorting algorithms
+lesson: 2
 ---
 
 Les over verschillende Sorting Algorithms met pseudocode.

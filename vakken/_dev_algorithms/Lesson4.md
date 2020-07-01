@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 4 - Binary trees
+lesson: 4
 ---
 
 Hoe structureer je je data recursively.

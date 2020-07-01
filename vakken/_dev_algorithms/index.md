@@ -1,5 +1,6 @@
 ---
 layout: course_home
+sort_lesson_key: true
 ---
 
 **Let op: de opdrachten van deze course staan in het programma Grande Omega. Hiervoor moet je een account hebben die je van de school hebt gekregen. Voor installatie instructies [klik hier](/grande-omega).**

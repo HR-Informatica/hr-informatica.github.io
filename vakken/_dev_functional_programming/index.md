@@ -1,5 +1,6 @@
 ---
 layout: course_home
+sort_lesson_key: true
 ---
 **Dit vak gaat over functional programming in F#.**
 

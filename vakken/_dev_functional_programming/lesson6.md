@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Les 6 - Advanced (hierarchical) data structures
+lesson: 6
 ---
 
 In deze les leer je de betekenis en management van hierarchical data structures
