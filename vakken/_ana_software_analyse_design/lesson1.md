@@ -63,6 +63,8 @@ There are two different sorts of requirements:
         - What limitations does the system have.
             - We can only use Ubuntu as server.
 
+![ISO 25010](\assets\images\ana_software_analysis_design\Lesson1\ISO-25010.jpg)
+
 ## Modeling
 Best way to start modeling is to step into the world of the users and the customers. This way you start to understand the problem more and you can make more accurate models.
 
