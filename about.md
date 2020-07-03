@@ -9,6 +9,8 @@ Deze website is een initiatief van Matthijs Booman en Bram Gussekloo met het doe
 Om alle informatie accuraat te houden is het doel dat de website collectief up-to-date gehouden wordt.
 Om dit te behalen kunnen alle studenten een pull-request naar [de repository][repo] van deze website aanmaken.
 
+[Meer informatie over contributie](/contributie)
+
 ---
 Dit project is gemaakt in [jekyll][jekyll-link] met een aagepaste versie van het [minima][minima-link] thema.
 
