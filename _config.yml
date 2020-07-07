@@ -31,6 +31,10 @@ collections:
     name: Analyse - Foundation of modeling
     course_code: INFANL03-2 / INFANL23-2
     output: true
+  ana_operating_systems:
+    name: Analyse - Operating systems
+    course_code: INFANL03-4/INFANL23-4
+    output: true
   ana_software_analyse_design:
     name: Analyse - Software Analyse & Design
     course_code: INFSAD01-A / INFSAD21-A
