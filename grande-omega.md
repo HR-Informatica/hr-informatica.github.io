@@ -68,7 +68,7 @@ Ook worden hier de examens in gegeven.
         2. Druk in dat venster onderin op `Environment Variables...` (`Omgevingsvariabelen...` in NL).
         3. In het nieuw geopende venster druk je onder `System variables` (`Systeemvariabelen` in NL) twee keer op de variabele `Path`.
         4. Druk dan in het nieuw geopende venster op `New` (`Nieuw` in NL).
-        5. Voeg dan op de nieuwe regel dit pad toe: `C:\Program Files(x86)\Mono\bin`. Als je het ergens anders geïnstalleerd heb moet je dat pad aangeven. let wel op dat je dan het pad moet geven naar de `bin` map in Mono. Als je mono hebt geïnstalleerd maar het niet kan vinden in de map `Program Files(x86)` dan kan het zijn dat je de 64-bit versie hebt geïnstalleerd. Deinstalleer dan de 64-bit versie en download dan de 32-bit versie.
+        5. Voeg dan op de nieuwe regel dit pad toe: `C:\Program Files (x86)\Mono\bin`. Als je het ergens anders geïnstalleerd heb moet je dat pad aangeven. let wel op dat je dan het pad moet geven naar de `bin` map in Mono. Als je mono hebt geïnstalleerd maar het niet kan vinden in de map `Program Files (x86)` dan kan het zijn dat je de 64-bit versie hebt geïnstalleerd. Deinstalleer dan de 64-bit versie en download dan de 32-bit versie.
         6. Druk nu in alle drie de schermen op `OK`.
 
 #### Niet-auto-updater versie Windows
