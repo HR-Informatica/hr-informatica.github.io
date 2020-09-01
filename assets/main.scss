@@ -11,6 +11,13 @@ $grey-color-dark-old:  darken($grey-color, 25%);
 
 $brand-color:   #CC0033;
 
+// ---- Dark mode ----
+$dark-text-color:       #fff;
+$dark-background-color: #303030;
+
+$dark-grey-color-light: lighten($grey-color, 20%);
+$dark-grey-color-dark:  darken($grey-color, 10%);
+
 @import "minima";
 
 .footer-col-wrapper {
@@ -79,4 +86,52 @@ hr {
     border-radius: 5px;
     cursor: initial;
   }
+}
+
+body.dark-mode {
+  color: $dark-text-color;
+  background-color: $dark-background-color; 
+
+  .site-header {
+    border-top: 5px solid $dark-grey-color-dark;
+    border-bottom: 1px solid $dark-grey-color-light;
+  }
+
+  .site-title:visited {
+    color: $dark-grey-color-dark;
+  }
+
+  a {
+    color: lighten($brand-color, 5%)
+  }
+
+  a:visited {
+    color: darken($brand-color, 5%);
+  }
+
+  a:hover {
+    color: $dark-text-color;
+  }
+
+  pre,code {
+    border: 1px solid $dark-grey-color-light;
+    color: #111;
+  }
+
+  pre > code {
+    border: 0;
+  }
+
+  .site-footer{
+    border-top: 1px solid $dark-grey-color-light;
+  }
+
+  .site-nav .page-link {
+    color: $dark-text-color;
+  }
+
+  .popup-container .popup-box {
+    color: #111;
+  }
+  
 }
