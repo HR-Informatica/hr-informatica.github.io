@@ -1,9 +1,8 @@
 class Main {
 
     constructor(){
-        this.openPopup = false
-
         this.handleIframeErrors()
+        this.handleTheme()
     }
 
     createPopup(title, innerHTML){
@@ -35,7 +34,9 @@ class Main {
         this.openPopup = false;
     }
 
-    handleIframeErrors(){
+    handleIframeErrors() {
+        this.openPopup = false
+
         const iframes = document.getElementsByTagName("iframe")
 
         for(const iframe of iframes){
@@ -61,7 +62,27 @@ class Main {
         }
     }
 
-    
+    handleTheme(){
+        const switchElement = document.querySelector('#dark-mode-switch')
+        this.theme = sessionStorage.getItem('theme')
+
+        if(!this.theme){
+            const systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)")
+            this.theme = systemInitiatedDark ? 'dark-theme' : 'light-theme'
+        }
+
+        if(this.theme == "dark-theme"){
+            switchElement.checked = true
+            document.body.className = "dark-mode"
+        }
+
+        switchElement.onclick = () => {
+            this.theme = switchElement.checked ? "dark-theme" : "light-theme"
+            document.body.className = this.theme == "dark-theme"? "dark-mode" : ""
+
+            sessionStorage.setItem("theme", this.theme)
+        }
+    }
 }
 
 new Main
