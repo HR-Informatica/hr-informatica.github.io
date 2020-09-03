@@ -6,4 +6,4 @@ layout: home
 list_title: Vakken
 ---
 
-**Let op: Om de content van de Hogeschool Rotterdam te kunnen zien, moet je ingelogd zijn in je browser met een Google account van de Hogeschool Rotterdam. Dit is vanwege de privacy en toegankelijkheid van het materiaal van docenten en studenten.**
+## **Let op: De embeds naar de video's werken het beste op chrome!**
