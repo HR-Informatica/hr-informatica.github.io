@@ -6,4 +6,4 @@ layout: home
 list_title: Vakken
 ---
 
-## **Let op: De embeds naar de video's werken het beste op chrome!**
+**Let op: De embeds naar de video's werken het beste op chrome!**
