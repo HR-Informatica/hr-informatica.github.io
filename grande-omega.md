@@ -90,6 +90,7 @@ Ook worden hier de examens in gegeven.
 **Let op:**
 - Er zijn voor MacOS twee versies die je kan installeren. Stap 1 is bij beide versies hetzelfde.
 - Zorg dat je installatie van Grande Omega in een pad staat waar geen spatie in zit. Grande Omega werkt dan niet meer. Ook mogen er geen diakrieten in het pad staan. `/Users/User1/Documents/Grande_Omega` mag dus omdat het geen spaties en diakrieten bevat, maar `/Users/User1/Documents/Grande Omega` mag dus niet omdat het een spatie heeft in de naam.
+- Als Anaconda voor een of andere reden niet werkt kan je [pyenv](https://github.com/pyenv/pyenv/blob/master/README.md) uitproberen.
 
 1. Download alle benodigde programma's vanaf de downloads hierboven. Deze zijn Node.js, Mono, Anaconda (Python 3.7) en .NET Core SDK. In principe hoef je ze alleen maar te installeren en dan is het goed. Het enige programma waar je nog iets bij moet doen is Mono. Deze staat na installeren namelijk niet in je path. Om het in je path te zetten moet je de volgende stappen volgen.
     1. Open terminal door te drukken op `⌘ + space`. Hierna kan je `terminal.app` intypen totdat de terminal app verschijnt, op dat moment kan je op enter drukken.
