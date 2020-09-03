@@ -67,7 +67,7 @@ class Main {
         this.theme = sessionStorage.getItem('theme')
 
         if(!this.theme){
-            const systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)")
+            const systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)").matches
             this.theme = systemInitiatedDark ? 'dark-theme' : 'light-theme'
         }
 
