@@ -64,7 +64,7 @@ class Main {
 
     handleTheme(){
         const switchElement = document.querySelector('#dark-mode-switch')
-        this.theme = sessionStorage.getItem('theme')
+        this.theme = localStorage.getItem('theme')
 
         if(!this.theme){
             const systemInitiatedDark = window.matchMedia("(prefers-color-scheme: dark)").matches
@@ -80,7 +80,7 @@ class Main {
             this.theme = switchElement.checked ? "dark-theme" : "light-theme"
             document.body.className = this.theme == "dark-theme"? "dark-mode" : ""
 
-            sessionStorage.setItem("theme", this.theme)
+            localStorage.setItem("theme", this.theme)
         }
     }
 }
