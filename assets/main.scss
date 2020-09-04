@@ -166,6 +166,12 @@ body.dark-mode {
     color: $dark-grey-color-dark;
   }
 
+  .site-nav {
+    @include media-query($on-palm) {
+      background-color: $dark-background-color;
+    }
+  }
+
   a {
     color: lighten($brand-color, 5%)
   }
