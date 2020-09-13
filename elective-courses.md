@@ -4,7 +4,7 @@ title: Keuzevakken
 permalink: /keuzevakken/
 ---
 
-## Wat zijn keuzevakken
+## Wat zijn keuzevakken?
 Keuzevakken zijn vakken die buiten de opleiding om gevolgd kunnen worden, meeste keuzevakken zijn 2 studiepunten waard.
 In Jaar 1 hoor je 3 keuzevakken te volgen zodat je aan je 60 punten voor je Propedeuse.
 Daarna hoor je vervolgens nog 3 keuzevakken te volgen zodat je aan de 12 totaal vereiste keuzevakpunten komt.
@@ -18,7 +18,7 @@ Je heb 3 momenten waarop je kan inscrijven voor keuzevakken;
 - Tweede In- en uitschrijfperiode:  
     Bij deze periode kan je zorgen dat je per OP ook je 2de vak kan kiezen. Als je nog geen keuzevak heb gekozen voor een OP kan je er in deze periode maximaal 2 kiezen.
 
-## Inscrijven
+## Inschrijven
 Op [Osiris](https://student.osiris.hro.nl:9021/osiris_student/OnderwijsZoekCursus.do) kan je je inschrijven voor keuzevakken.
 Maak de volgende selectie:
 - Aanvangsblok: het OP wanneer je het keuzevak wilt volgen
