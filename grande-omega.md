@@ -124,6 +124,7 @@ Ook worden hier de examens in gegeven.
 - Wij hebben dit getest op Ubuntu 18.04 LTS en 20.04 LTS. Elke versie daar tussenin zou ook moeten werken.
 - Er zijn voor Linux twee versies die je kan installeren.
 - Zorg dat je installatie van Grande Omega in een pad staat waar geen spatie in zit. Grande Omega werkt dan niet meer. Ook mogen er geen diakrieten in het pad staan. `/home/user1/documents/Grande_Omega` mag dus omdat het geen spaties en diakrieten bevat, maar `/home/user1/documents/Grande Omega` mag dus niet omdat het een spatie heeft in de naam.
+- Als Anaconda voor een of andere reden niet werkt kan je [pyenv](https://github.com/pyenv/pyenv/blob/master/README.md) uitproberen.
 
 #### Niet-auto-updater versie Linux
 
