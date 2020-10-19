@@ -25,6 +25,10 @@ github_username: HR-Informatica
 # Build settings
 markdown: kramdown
 theme: minima
+titles_from_headings:
+  enabled:     false
+  strip_title: false
+  collections: false
 collections_dir: vakken
 collections:
   ana_foundation_of_modeling:
