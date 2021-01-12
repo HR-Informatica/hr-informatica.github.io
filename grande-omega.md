@@ -120,7 +120,7 @@ Ook worden hier de examens in gegeven.
 ## Linux
 
 **Let op:**
-- **Grande Omega wordt niet officieel ondersteund door de developers van Grande Omega. Wij hebben een omweg gevonden door de mac versie te gebruiken en wat dingen aan te passen. Wij weten niet of dit officieel mag van de leraren en wij zijn er dan niet verantwoordelijk voor als het opeens niet mag. Gebruik op linux is op eigen risico.**
+- **Grande Omega wordt niet officieel ondersteund op Linux distro's door de developers van Grande Omega. Wij hebben een omweg gevonden door de mac versie te gebruiken en wat dingen aan te passen. Wij weten niet of dit officieel mag van de leraren en wij zijn er dan niet verantwoordelijk voor als het opeens niet mag. Gebruik op linux is op eigen risico.**
 - Wij hebben dit getest op Ubuntu 18.04 LTS en 20.04 LTS. Elke versie daar tussenin zou ook moeten werken.
 - Er zijn voor Linux twee versies die je kan installeren.
 - Zorg dat je installatie van Grande Omega in een pad staat waar geen spatie in zit. Grande Omega werkt dan niet meer. Ook mogen er geen diakrieten in het pad staan. `/home/user1/documents/Grande_Omega` mag dus omdat het geen spaties en diakrieten bevat, maar `/home/user1/documents/Grande Omega` mag dus niet omdat het een spatie heeft in de naam.
