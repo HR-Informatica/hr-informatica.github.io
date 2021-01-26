@@ -46,11 +46,17 @@ Ook worden hier de examens in gegeven.
 [GO Mac / Linux](https://www.grandeomega.com/downloads/go_student_mac.zip){:target="_black"}  
 [GO installer (auto updater voor MacOS / Windows 10 / Linux)](https://www.grandeomega.com/downloads/go_student_app.zip){:target="_black"}
 
+#### Community made (optioneel)
+[GO patcher (Voor de mac versie van GO, onafhankelijk van OS)](https://github.com/Matthbo/GrandeOmega-patcher/blob/master/readme.md){:target="_black"}
+
 ***
 
 **Let op linux gebruikers:** Je kan Grande Omega gebruiken door de mac versie of de auto updater versie te downloaden. Om grande omega te installeren wordt aangeraden om alles behalve de "node_modules" map te unzippen. Daarna kan je `npm install` uitvoeren om de node_modules opnieuw te downloaden maar dan voor jouw linux distro i.p.v. Mac. Ook moet je ervoor zorgen dat je de rechten hebt om Grande Omega uit te voeren. Dit kan je doen door in de map van Grande Omega de volgende command uit te voeren:
 - Voor niet-auto-updater: `chmod +x start.command`
 - Voor auto-updater: `chmod +x start-mac.command`
+
+**TIP**: Gebruik de [GrandeOmega-patcher](https://github.com/Matthbo/GrandeOmega-patcher/blob/master/readme.md){:target="_black"} voor Ubuntu 20.04+ als je een error krijgt als je GO probeert op te starten.
+De error zal iets zijn zoals `(electron:6649): Pango-ERROR **: Harfbuzz version too old (1.2.7)`.
 
 ***
 
@@ -91,6 +97,7 @@ Ook worden hier de examens in gegeven.
 - Er zijn voor MacOS twee versies die je kan installeren. Stap 1 is bij beide versies hetzelfde.
 - Zorg dat je installatie van Grande Omega in een pad staat waar geen spatie in zit. Grande Omega werkt dan niet meer. Ook mogen er geen diakrieten in het pad staan. `/Users/User1/Documents/Grande_Omega` mag dus omdat het geen spaties en diakrieten bevat, maar `/Users/User1/Documents/Grande Omega` mag dus niet omdat het een spatie heeft in de naam.
 - Als Anaconda voor een of andere reden niet werkt kan je [pyenv](https://github.com/pyenv/pyenv/blob/master/README.md) uitproberen.
+- Wij raden aan om de [GrandeOmega-patcher](https://github.com/Matthbo/GrandeOmega-patcher/blob/master/readme.md){:target="_black"} te gebruiken.
 
 1. Download alle benodigde programma's vanaf de downloads hierboven. Deze zijn Node.js, Mono, Anaconda (Python 3.7) en .NET Core SDK. In principe hoef je ze alleen maar te installeren en dan is het goed. Het enige programma waar je nog iets bij moet doen is Mono. Deze staat na installeren namelijk niet in je path. Om het in je path te zetten moet je de volgende stappen volgen.
     1. Open terminal door te drukken op `⌘ + space`. Hierna kan je `terminal.app` intypen totdat de terminal app verschijnt, op dat moment kan je op enter drukken.
@@ -120,11 +127,12 @@ Ook worden hier de examens in gegeven.
 ## Linux
 
 **Let op:**
-- **Grande Omega wordt niet officieel ondersteund op Linux distro's door de developers van Grande Omega. Wij hebben een omweg gevonden door de mac versie te gebruiken en wat dingen aan te passen. Wij weten niet of dit officieel mag van de leraren en wij zijn er dan niet verantwoordelijk voor als het opeens niet mag. Gebruik op linux is op eigen risico.**
+- **Grande Omega wordt niet officieel ondersteund op Linux distro's door de developers van Grande Omega. Wij hebben een omweg gevonden door de mac versie te gebruiken en wat dingen aan te passen. Wij weten niet of dit officieel mag van de docenten en wij zijn er dan niet verantwoordelijk voor als het opeens niet gebruikt mag worden. Gebruik op linux is op eigen risico.**
 - Wij hebben dit getest op Ubuntu 18.04 LTS en 20.04 LTS. Elke versie daar tussenin zou ook moeten werken.
 - Er zijn voor Linux twee versies die je kan installeren.
 - Zorg dat je installatie van Grande Omega in een pad staat waar geen spatie in zit. Grande Omega werkt dan niet meer. Ook mogen er geen diakrieten in het pad staan. `/home/user1/documents/Grande_Omega` mag dus omdat het geen spaties en diakrieten bevat, maar `/home/user1/documents/Grande Omega` mag dus niet omdat het een spatie heeft in de naam.
 - Als Anaconda voor een of andere reden niet werkt kan je [pyenv](https://github.com/pyenv/pyenv/blob/master/README.md) uitproberen.
+- Wij raden aan om de [GrandeOmega-patcher](https://github.com/Matthbo/GrandeOmega-patcher/blob/master/readme.md){:target="_black"} te gebruiken.
 
 #### Niet-auto-updater versie Linux
 
