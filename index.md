@@ -6,4 +6,6 @@ layout: home
 list_title: Vakken
 ---
 
-**Let op: De embeds naar de video's werken het beste op chrome!**
+Let op:
+* **De embeds zijn mogelijk niet werkend, we zoeken nog naar een geschikte oplossing!**
+* **De Grande Omega instructies zijn geupdate op basis van het instructie document van de docenten van november 2020**
