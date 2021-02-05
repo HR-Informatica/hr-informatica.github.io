@@ -42,7 +42,7 @@ Klopt iets niet? [Jouw contributie](/contributie) is altijd welkom!
 
 #### Grande Omega (kies een download geschikt voor jouw OS)
 [GO Windows](https://www.grandeomega.com/downloads/go_student_win.zip){:target="_black"}  
-[GO Mac / Linux](https://www.grandeomega.com/downloads/go_student_mac.zip){:target="_black"}  
+[GO Mac / Linux](https://www.grandeomega.com/downloads/go_student_mac.zip){:target="_black"} (werkt ook op windows)  
 
 #### Community made (optioneel)
 [GO patcher](https://github.com/Matthbo/GrandeOmega-patcher/blob/master/readme.md){:target="_black"} (Voor de mac versie van GO, onafhankelijk van OS)
