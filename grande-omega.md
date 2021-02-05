@@ -49,7 +49,7 @@ Klopt iets niet? [Jouw contributie](/contributie) is altijd welkom!
 
 ***
 
-**Let op linux gebruikers:** Je kan Grande Omega gebruiken door de mac versie of de auto updater versie te downloaden. Om grande omega te installeren wordt aangeraden om alles behalve de "node_modules" map te unzippen. Daarna kan je `npm install` uitvoeren om de node_modules opnieuw te downloaden maar dan voor jouw linux distro i.p.v. Mac. Ook moet je ervoor zorgen dat je de rechten hebt om Grande Omega uit te voeren. Dit kan je doen door in de map van Grande Omega de volgende command uit te voeren:
+**Let op linux gebruikers:** Je kan Grande Omega gebruiken door de mac versie te downloaden. Om grande omega te installeren wordt aangeraden om alles behalve de "node_modules" map te unzippen. Daarna kan je `npm install` uitvoeren om de node_modules opnieuw te downloaden maar dan voor jouw linux distro i.p.v. Mac. Ook moet je ervoor zorgen dat je de rechten hebt om Grande Omega uit te voeren. Dit kan je doen door in de map van Grande Omega de volgende command uit te voeren:
 ```chmod +x start.command```
 
 **TIP**: Gebruik de [GrandeOmega-patcher](https://github.com/Matthbo/GrandeOmega-patcher/blob/master/readme.md){:target="_black"} voor Ubuntu 20.04+ als je een error krijgt als je GO probeert op te starten.
@@ -64,7 +64,7 @@ De error zal iets zijn zoals `(electron:6649): Pango-ERROR **: Harfbuzz version 
 **Let op:** 
 - Zorg dat je installatie van Grande Omega in een pad staat waar geen spatie in zit. Grande Omega werkt dan niet meer. Ook mogen er geen diakrieten in het pad staan. `C:\Users\User1\Desktop\Grande_Omega` mag dus omdat het geen spaties en diakrieten bevat, maar `C:\Users\User1\Desktop\Grande Omega` mag dus niet omdat het een spatie heeft in de naam.
 
-1. Installeer alle programma's die nodig zijn voor het gebruiken van Grande Omega. Deze zijn Node.js, Mono, Python 3 en .NET Core SDK. De links naar de download pagina's staat hierboven. Bij Node.js, python en .NET Core SDK zou tijdens de installatie het programma in je Path moeten worden gezet. Dit moet gebeuren anders kan Grande Omega sommige programma's niet vinden. Bij Python staat dit standaard uit en moet aan worden gezet.
+1. Installeer alle programma's die nodig zijn voor het gebruiken van Grande Omega. Deze zijn Node.js, Mono, Python 3. De links naar de download pagina's staat hierboven. Bij Node.js en python zou tijdens de installatie het programma in je Path moeten worden gezet. Dit moet gebeuren anders kan Grande Omega sommige programma's niet vinden. Bij Python staat dit standaard uit en moet aan worden gezet tijdens de installatie.
     - Om ervoor te zorgen dat Mono wordt herkent in Grande Omega moet je de path naar mono in je Environment variables zetten:
         1. Druk op `WIN + R` en vul dan `SystemPropertiesAdvanced.exe` in. Als het goed is opent dan System Properties.
         2. Druk in dat venster onderin op `Environment Variables...` (`Omgevingsvariabelen...` in NL).
@@ -81,10 +81,10 @@ De error zal iets zijn zoals `(electron:6649): Pango-ERROR **: Harfbuzz version 
 
 **Let op:**
 - Zorg dat je installatie van Grande Omega in een pad staat waar geen spatie in zit. Grande Omega werkt dan niet meer. Ook mogen er geen diakrieten in het pad staan. `/Users/User1/Documents/Grande_Omega` mag dus omdat het geen spaties en diakrieten bevat, maar `/Users/User1/Documents/Grande Omega` mag dus niet omdat het een spatie heeft in de naam.
-- Als Anaconda voor een of andere reden niet werkt kan je [pyenv](https://github.com/pyenv/pyenv/blob/master/README.md) uitproberen.
+- Als Anaconda voor een of andere reden niet werkt kan je [pyenv](https://github.com/pyenv/pyenv/blob/master/README.md){:target="_black"} uitproberen.
 - Wij raden aan om de [GrandeOmega-patcher](https://github.com/Matthbo/GrandeOmega-patcher/blob/master/readme.md){:target="_black"} te gebruiken.
 
-1. Download alle benodigde programma's vanaf de downloads hierboven. Deze zijn Node.js, Mono, Anaconda (Python 3.7) en .NET Core SDK. In principe hoef je ze alleen maar te installeren en dan is het goed. Het enige programma waar je nog iets bij moet doen is Mono. Deze staat na installeren namelijk niet in je path. Om het in je path te zetten moet je de volgende stappen volgen.
+1. Download alle benodigde programma's vanaf de downloads hierboven. Deze zijn Node.js, Mono en Anaconda (Python 3). In principe hoef je ze alleen maar te installeren en dan is het goed. Het enige programma waar je nog iets bij moet doen is Mono. Deze staat na installeren namelijk niet in je path. Om het in je path te zetten moet je de volgende stappen volgen.
     1. Open terminal door te drukken op `⌘ + space`. Hierna kan je `terminal.app` intypen totdat de terminal app verschijnt, op dat moment kan je op enter drukken.
     2. Vul het volgende command in: `export PATH=/usr/local/bin:${PATH}`.
     3. Hierna kan je de command `which mono` gebruiken. Hier zou het volgende uit moeten komen:
@@ -96,6 +96,12 @@ De error zal iets zijn zoals `(electron:6649): Pango-ERROR **: Harfbuzz version 
     Als dit niet het geval is moet je kijken of je mono goed geïnstalleerd hebt.
 2. Download de GO Mac zip vanaf de downloads hierboven en pak het uit naar een plek op je computer.
 3. Nu kan je het programma starten door het bestand `start.command` uitvoeren. Klik hierna op de `i` om te kijken of alles goed is geïnstalleerd. Als er ergens staat `(not found)` moet je kijken of je dit nog een keer kan installeren.
+    * Als start.command niet werkt op de eerste keer:
+        1. Ga naar de Security and Privacy (Beveiliging en Privacy in NL) tab
+        2. Onderaan het scherm zie je `start.command` met de knop "run anyways"
+            * Als de knop uitgeschakeld is kan je deze aan zetten door op het vergrendelicoontje te klikken aan het einde van de pagina
+        3. Klik op de "run anyway" knop om start.command te kunnen uitvoeren 
+
 
 ***
 
@@ -105,7 +111,7 @@ De error zal iets zijn zoals `(electron:6649): Pango-ERROR **: Harfbuzz version 
 - **Grande Omega wordt niet officieel ondersteund op Linux distro's door de developers van Grande Omega. Wij hebben een omweg gevonden door de mac versie te gebruiken en wat dingen aan te passen. Wij weten niet of dit officieel mag van de docenten en wij zijn er dan niet verantwoordelijk voor als het opeens niet gebruikt mag worden. Gebruik op linux is op eigen risico.**
 - Wij hebben dit getest op Ubuntu 18.04 LTS en 20.04 LTS. Elke versie daar tussenin zou ook moeten werken.
 - Zorg dat je installatie van Grande Omega in een pad staat waar geen spatie in zit. Grande Omega werkt dan niet meer. Ook mogen er geen diakrieten in het pad staan. `/home/user1/documents/Grande_Omega` mag dus omdat het geen spaties en diakrieten bevat, maar `/home/user1/documents/Grande Omega` mag dus niet omdat het een spatie heeft in de naam.
-- Als Anaconda voor een of andere reden niet werkt kan je [pyenv](https://github.com/pyenv/pyenv/blob/master/README.md) uitproberen.
+- Als Anaconda voor een of andere reden niet werkt kan je [pyenv](https://github.com/pyenv/pyenv/blob/master/README.md){:target="_black"} uitproberen.
 - Wij raden aan om de [GrandeOmega-patcher](https://github.com/Matthbo/GrandeOmega-patcher/blob/master/readme.md){:target="_black"} te gebruiken.
 
 1. Download alle programma's en installeer deze. Je zou in principe niks verder moeten doen dan het installeren van deze programma's.
