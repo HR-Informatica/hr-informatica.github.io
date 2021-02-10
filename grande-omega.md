@@ -31,6 +31,7 @@ Klopt iets niet? [Jouw contributie](/contributie) is altijd welkom!
 
 [Installation guide (november 2020)]({{site.baseurl}}\assets\Grande_Omega_Installation_Guide.pdf){:target="_black"}  
 [Installation video (september 2020)](https://youtu.be/mmNtHxFE4K4){:target="_black"}  
+[Officieel development materiaal](https://hrnl.sharepoint.com/:f:/s/CMI-INFMATERIALSDEV/Ek0spkX6FhRNnItcf6DIHTQB-QroNfQFuOTw-eVgEoH4mg?e=M5hLP7){:target="_black"}  
 
 #### Programma's die nodig zijn om Grande Omega te gebruiken
 
