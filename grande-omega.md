@@ -39,7 +39,6 @@ Klopt iets niet? [Jouw contributie](/contributie) is altijd welkom!
 [Mono (32bit)](https://www.mono-project.com/download){:target="_black"}  
 [Python 3 (Windows)](https://www.python.org/downloads/){:target="_black"}  
 [Python 3 (MacOS / Linux)](https://www.anaconda.com/products/individual){:target="_black"}  
-[.NET Core SDK](https://dotnet.microsoft.com/download){:target="_black"} (optioneel omdat GO er wel op checkt maar er niks over staat in de installation guide)
 
 #### Grande Omega (kies een download geschikt voor jouw OS)
 [GO Windows](https://www.grandeomega.com/downloads/go_student_win.zip){:target="_black"}  
